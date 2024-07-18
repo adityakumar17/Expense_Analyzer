@@ -1,5 +1,7 @@
 # Expense_Analyzer
-Developed an automated expense analyzer that processes bank statements in CSV format. The program categorizes expenses automatically and provides a total for each category. Additionally, it generates a pie chart using Matplotlib to visualize the distribution of expenses.
+Developed an automated expense analyzer that processes bank statements in CSV format.
+Just download the code and csv file and add some details in the csv file.
+Done! Now just leave it on python to do it's magic
 
 # Screen Shots
 
